@@ -17,4 +17,4 @@ jobs:
 
       - run: npm install -g newman
 
-      - run: newman run "TEN_FILE_MONITOR.postman_collection.json"
+      - run: newman run "2474802010356_TranThanh_Monitor.postman_collection.json"
